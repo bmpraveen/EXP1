@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-11-05 06:07:48</sys_created_on>
-        <sys_id>6c49c02ddbd82010806ebd513996198d</sys_id>
+        <sys_id>201f0461db1c2010806ebd51399619ec</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_501118_exp1_data</sys_name>
         <sys_package display_value="EXP1" source="x_501118_exp1">3c488425dbd82010806ebd51399619ce</sys_package>
         <sys_policy/>
         <sys_scope display_value="EXP1">3c488425dbd82010806ebd51399619ce</sys_scope>
-        <sys_update_name>ua_table_licensing_config_6c49c02ddbd82010806ebd513996198d</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_201f0461db1c2010806ebd51399619ec</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-11-05 06:07:48</sys_updated_on>
     </ua_table_licensing_config>

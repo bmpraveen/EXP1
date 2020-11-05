@@ -2,5 +2,6 @@
     <element label="Data" max_length="40" name="x_501118_exp1_data" type="collection">
         <element label="COL1" max_length="500" name="col1" type="string"/>
         <element label="COL2" mandatory="true" max_length="400" name="col2" type="string"/>
+        <element label="COL3" max_length="40" name="col3" type="string"/>
     </element>
 </database>
